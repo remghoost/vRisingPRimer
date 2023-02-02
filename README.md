@@ -1,20 +1,14 @@
 ## **I'll start with the server settings.**
 
-<br>
-
 - 99% of the base PvE settings are perfectly fine, but **I would recommend disabling "Teleport Bound Items".** 
 - Having this option enabled will prevent you from fast traveling while you have resources in your inventory. This might sound fine to have enabled, but **I've found it just pads out the game more than anything.** Some people in the Vrising community will disagree with me and that's totally fine. I prefer not to have it enabled. It was one of the first changes I went back and made once I created a server.
-<br>
 
 - **I will place a guide at the end for editing your server settings after the initial setup, if you end up wanting to do that.**
 
-<br>
 
 ## **A few important things to know when first starting out.**
 
 - **I'll mostly be covering things that the game doesn't really tell you right off the bat, but are important to know.** I won't cover things like combat, movement, etc. You should be able to figure those things out.
-
-<br>
 
 ## **Follow the tutorial. No really.**
 
@@ -120,12 +114,11 @@ That's most of the things you'll need to know to get through the early game. It 
 
 Hopefully this guide helps you get to the actual game quicker and lets you bypass that learning curve.
 
-<br>
 
 # **Happy vampire-ing!**
+---
 
 ### **How to change your server settings after you start**
-<br>
 
 I figured I would put this here in case you wanted to change some stuff down the road. 
 <br>It's a bit finicky if you don't know what you're doing.
@@ -135,11 +128,9 @@ I figured I would put this here in case you wanted to change some stuff down the
 
 You can adjust the settings of the server after you've created it by going to `Continue` from the main menu, picking your save from the list on the bottom, then clicking `Go to Directory` on the right side. Open the `"ServerHostSettings.json"` in a text editor (I would personally recommend `Notepad++`) and you will see the server's current settings. Your json file will be mostly empty if you have not tampered with the original settings.
 
-<br>
 
 ### **BE SURE TO MAKE A BACKUP OF YOUR "ServerHostSettings.json" BEFORE YOU EDIT ANYTHING**
 
-<br>
 
 Here is a link that has a template for all of the server settings.
 
@@ -147,10 +138,11 @@ It also explains all of the settings for it. Really solid site.
 
 https://basicallyaverage.com/change-game-settings-v-rising/
 
-<br>
 
 If there is something you want to change but do not see it in your json file, you can just copy the entry from that page into your json file.
-The json file is broken up into certain chunks though, so be sure to place the setting you want to change in the correct chunk and in the correct place. **Use the above site to make sure you are placing that piece of code in the correct spot.**
+The json file is broken up into certain chunks though, so be sure to place the setting you want to change in the correct chunk and in the correct place. 
+
+- **Use the above site to make sure you are placing that piece of code in the correct spot.**
 
 For instance, if you wanted to disable the teleport bound items setting, you would put
 
@@ -171,4 +163,4 @@ in the top chunk.
 
 If you made it this far, here's a goofy vampire I made with Stable Diffusion.
 
-![spoooky] (/assets/images/vampire.png)
+![spoooky](/assets/images/vampire.png)
