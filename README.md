@@ -1,3 +1,7 @@
+## **A few important things to know about this guide**
+
+- **I'll mostly be covering things that the game doesn't really tell you right off the bat, but are important to know.** I won't cover things like combat, movement, etc. You should be able to figure those things out.
+
 ## **I'll start with the server settings.**
 
 - 99% of the base PvE settings are perfectly fine, but **I would recommend disabling "Teleport Bound Items".** 
@@ -5,10 +9,6 @@
 
 - **I will place a guide at the end for editing your server settings after the initial setup, if you end up wanting to do that.**
 
-
-## **A few important things to know when first starting out.**
-
-- **I'll mostly be covering things that the game doesn't really tell you right off the bat, but are important to know.** I won't cover things like combat, movement, etc. You should be able to figure those things out.
 
 ## **Follow the tutorial. No really.**
 
