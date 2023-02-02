@@ -56,7 +56,7 @@ Try to do things at night (obviously, cause vampire).
 
 - **If you see an enemy with a skull instead of a level, do not fight them.** You will lose, regardless of how well you play. Get better equipment before you fight them.
 
-- **Your equipment also has durability and will be useless if it breaks.** If equipment is broken, it will not count towards your level. Keep this in mind. If a piece of equipment breaks during a fight, you might lose a fight that was winnable with that piece intact.
+- **Your equipment also has durability and will be useless if it breaks.** If equipment is broken, it will not count towards your level. Keep this in mind. If a piece of equipment breaks during a fight, you might lose a fight that was winnable with that piece intact. You can repair your equipment.
 
 ## **Castle building**
 
