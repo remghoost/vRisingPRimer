@@ -22,7 +22,7 @@
 
 - This one is pretty straight forward, but one of the the more neat mechanics in Vrising.
 
-- **Sun = bad
+- **Sun = bad <br>
     Shadows = good**
 
 - I really enjoy this aspect of the game.
